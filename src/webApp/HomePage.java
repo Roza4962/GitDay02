@@ -7,4 +7,8 @@ public class HomePage {
     // Facebook
 
     // Twitter
+
+    // more thing
+    // logo
+
 }

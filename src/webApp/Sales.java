@@ -8,4 +8,8 @@ public class Sales {
     //.....
     //.....
 
+    // more sales
+    // 50 % off
+    // 70 % off
+
 }
